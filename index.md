@@ -1,5 +1,7 @@
 # About Me
 
+[More in HTML!](about.html)
+
 Hello! My name is Will McClintock. I study at the University of Washington. This page says a little about me.
 
 ![Will](will.jpg "A picture of me!")
